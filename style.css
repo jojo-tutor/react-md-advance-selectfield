@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+html {
+  width: 100%;
+}
+
+.demo {
+  left: 50%;
+  margin: 1em;
+  max-width: 600px;
+  position: absolute;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  width: 100%;
+}
+
+code {
+  font-family: Consolas, Monaco, 'Andale Mono', monospace;
+}
