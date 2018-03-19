@@ -10,7 +10,7 @@ CodePen:
  > https://codepen.io/jojo-tutor/pen/GQwjvj
 
 ## The Issue
-https://github.com/mlaursen/react-md/issues/671
+ > https://github.com/mlaursen/react-md/issues/671
 
 ## Authors
 **Jojo E. Tutor**
