@@ -5,12 +5,12 @@
 ## About
 A quick fix for react-md selectfield issue on onBlur event not selecting the menu item highlighted.
 
-## Demonstration
-CodePen:
- > https://codepen.io/jojo-tutor/pen/GQwjvj
-
 ## The Issue
  > https://github.com/mlaursen/react-md/issues/671
+
+## The Fix
+CodePen:
+ > https://codepen.io/jojo-tutor/pen/GQwjvj
 
 ## Authors
 **Jojo E. Tutor**
